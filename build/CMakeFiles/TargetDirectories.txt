@@ -1,0 +1,3 @@
+/Users/darkknight/Documents/learning resource/code/test_env/build/CMakeFiles/my_test.dir
+/Users/darkknight/Documents/learning resource/code/test_env/build/CMakeFiles/edit_cache.dir
+/Users/darkknight/Documents/learning resource/code/test_env/build/CMakeFiles/rebuild_cache.dir
